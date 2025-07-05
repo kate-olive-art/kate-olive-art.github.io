@@ -1,2 +1,3 @@
 title: Kate Oliveira
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
