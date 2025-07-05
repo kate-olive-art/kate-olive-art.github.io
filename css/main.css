@@ -393,7 +393,7 @@
         }
 
         .submit-btn {
-            background: linear-gradient(45deg, var(--soft-pink), var(--dark-cyan));
+            background: linear-gradient(45deg, var(--soft-pink), var(--deep-navy));
             color: var(--deep-navy);
             padding: 15px 40px;
             border: none;
